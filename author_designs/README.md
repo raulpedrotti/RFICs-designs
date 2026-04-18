@@ -23,7 +23,7 @@ This folder includes the work that I developed as an author:
 
   - The following figures present the main results obtained:
   -Frequency response of proposed AI
-  <img width="620" height="511" alt="image" src="https://github.com/user-attachments/assets/ea01a6d1-3e14-492a-baf5-91bd6fcf1a7b" />
+  <img width="420" height="311" alt="image" src="https://github.com/user-attachments/assets/ea01a6d1-3e14-492a-baf5-91bd6fcf1a7b" />
   -Frequency response of the proposed BPF.
-  <img width="625" height="530" alt="image" src="https://github.com/user-attachments/assets/9b3e2dac-a101-408a-85de-20d4e5290fb4" />
+  <img width="420" height="311" alt="image" src="https://github.com/user-attachments/assets/9b3e2dac-a101-408a-85de-20d4e5290fb4" />
 
