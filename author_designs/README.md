@@ -8,7 +8,7 @@ This folder includes the work that I developed as an author:
   
   -In this project, I attended the preliminary results of an active inductor that is employed in sub-GHz systems
   - The following figures present the:
-  - Zin of the AI
+  -Zin of the AI
   <img width="448" height="323" alt="image" src="https://github.com/user-attachments/assets/67c192c0-ebe1-4c6c-95cf-e46e4ff74df3" />
   -BPF topology
   <img width="435" height="193" alt="image" src="https://github.com/user-attachments/assets/192bc66b-126c-41b9-a7f6-c30616f6d654" />
