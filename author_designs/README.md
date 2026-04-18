@@ -22,6 +22,7 @@ This folder includes the work that I developed as an author:
   -Abstract: The active inductor (AI) is a promising strategy for use in analog receiver filters applied to aerospace devices, as it occupies a smaller silicon area. This paper presents the preliminary design of an AI implemented in a 65-nm CMOS process, which obtained an L of 14.97 nH with a quality factor of 3.7. It was employed to implement an L-C band-pass filter at 401.5 MHz intended for small satellite RF receivers. The power consumed by the complete circuit was 1.08 mW at 1.2 V. 
 
   - The following figures present the main results obtained:
+    
   -Frequency response of proposed AI
   <img width="420" height="311" alt="image" src="https://github.com/user-attachments/assets/ea01a6d1-3e14-492a-baf5-91bd6fcf1a7b" />
   -Frequency response of the proposed BPF.
