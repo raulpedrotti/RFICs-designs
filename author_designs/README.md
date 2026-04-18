@@ -31,3 +31,24 @@ This folder includes the work that I developed as an author:
   -Frequency response of the proposed BPF.
   <img width="420" height="311" alt="image" src="https://github.com/user-attachments/assets/9b3e2dac-a101-408a-85de-20d4e5290fb4" />
 
+  **[3] A 0.4-V CMOS 65-nm Programmable-Phase Shifter using Active Inductor for sub-GHz Applications**
+
+  - Attended the Brazilian Optoelectronics and Microwave Symposium 2024
+
+  - Abstract: This paper presents the preliminary results of a lossless ultra-low-voltage active inductors-based balanced phase shifter (PS) intended to be used in RF systems. The proposed PS is implemented using sections of L-C differential network, with two capacitors and only one active inductor (AI), where the lossless ULV AI is obtained with an inverter-based operational transconductance amplifier (OTA). The circuit was designed in a CMOS 65 nm process to work with a supply voltage of only 0.4 V to operate at the 400 MHz RF band. The common-mode stability is obtained by using a common-mode feedback (CMFB) circuit that also compensates for the output DC voltage due to the process, voltage and temperature (PVT) variations. The circuit was designed and the results were verified using the Cadence Virtuoso Design Environment®. The AI presented synthesized inductance around 60 nH at 400 MHz, a quality factor (Q) of 224, and a self-resonant frequency (SRF) of 1.57 GHz. The programmable PS implemented presented 78° phase shift range and the circuit power dissipation is 599.2 µW.
+
+  - The following figures present the main results obtained:
+
+  -ULV Inverter-Based OTA
+  <img width="1726" height="588" alt="image" src="https://github.com/user-attachments/assets/8841a947-e4a2-4053-9d59-d6ad9bbdfb80" />
+  -Frequency response of equivalent inductance
+  <img width="656" height="582" alt="image" src="https://github.com/user-attachments/assets/5ff9f10b-8ca9-4495-8272-de42dd5a39f4" />
+  -Proposed phase shifter
+  <img width="604" height="208" alt="image" src="https://github.com/user-attachments/assets/c42ee552-6534-4b8a-be9b-2f8fff6fa7c8" />
+  -Simulated S12 phase of the designed phase shifter
+  <img width="751" height="661" alt="image" src="https://github.com/user-attachments/assets/7b10fd94-05fb-4f8a-a3df-d0404c6a50f3" />
+
+**[4] **
+
+
+
