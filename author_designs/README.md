@@ -42,7 +42,7 @@ This folder includes the work that I developed as an author:
   -ULV Inverter-Based OTA
   <img width="926" height="388" alt="image" src="https://github.com/user-attachments/assets/8841a947-e4a2-4053-9d59-d6ad9bbdfb80" />
   -Frequency response of equivalent inductance
-  <img width="604" height="288" alt="image" src="https://github.com/user-attachments/assets/5ff9f10b-8ca9-4495-8272-de42dd5a39f4" />
+  <img width="604" height="388" alt="image" src="https://github.com/user-attachments/assets/5ff9f10b-8ca9-4495-8272-de42dd5a39f4" />
   -Proposed phase shifter
   <img width="604" height="208" alt="image" src="https://github.com/user-attachments/assets/c42ee552-6534-4b8a-be9b-2f8fff6fa7c8" />
   -Simulated S12 phase of the designed phase shifter
