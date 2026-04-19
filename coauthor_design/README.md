@@ -1,4 +1,4 @@
-# This folder includes the work that I participated as a co-author:
+# This folder includes the works that I participated as a co-author
 
 [1] A Robust Voltage and Current Stabilization Method for Ultra-Low Voltage Low-Power Inverter-Based RF LNTAs
   - Published in the JICS 2025 edition
